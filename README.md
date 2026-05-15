@@ -64,11 +64,19 @@ The data for the Britannia Juice Limited financial project was sourced from a co
 <img width="1096" height="622" alt="Income Statement" src="https://github.com/user-attachments/assets/e51309e8-ba86-42c5-a4bb-96f8181f4af9" />
 
 
-### Assumptions Tab
-![Assumptions](screenshots/assumptions.png)
+### Statement of Financial Position
+<img width="1277" height="610" alt="Bal Sheet" src="https://github.com/user-attachments/assets/d21981b6-2521-4dae-93dc-2617c08e03df" />
+<img width="1237" height="541" alt="Bal Sheet2" src="https://github.com/user-attachments/assets/0371072a-b91a-451c-9c6a-0bdcb90c5c2c" />
 
-### Charts & Visualisations
-![Charts](screenshots/charts.png)
+
+### Statement of Cash Flow
+<img width="1322" height="632" alt="Cash Flow Statement" src="https://github.com/user-attachments/assets/2893dfdf-c136-4782-be48-6804acaa4413" />
+<img width="1223" height="336" alt="Cash Flow Statement2" src="https://github.com/user-attachments/assets/8063a01f-5220-40bc-933a-c178b9400063" />
+
+
+### Financial Ratios
+<img width="1047" height="640" alt="Financial Ratios" src="https://github.com/user-attachments/assets/58452991-fe8c-4034-b408-bfcad40c364e" />
+
 
 ---
-*Built by [Your Name] | [LinkedIn URL]*r-FMCG
+*Built by [Emmanuel Sekyere] | [www.linkedin.com/in/emmanuelsekyere]*r-FMCG
