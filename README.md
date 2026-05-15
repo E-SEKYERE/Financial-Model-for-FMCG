@@ -66,12 +66,12 @@ The data for the Britannia Juice Limited financial project was sourced from a co
 
 ### Statement of Financial Position
 <img width="1277" height="610" alt="Bal Sheet" src="https://github.com/user-attachments/assets/d21981b6-2521-4dae-93dc-2617c08e03df" />
-<img width="1237" height="541" alt="Bal Sheet2" src="https://github.com/user-attachments/assets/0371072a-b91a-451c-9c6a-0bdcb90c5c2c" />
+
 
 
 ### Statement of Cash Flow
 <img width="1322" height="632" alt="Cash Flow Statement" src="https://github.com/user-attachments/assets/2893dfdf-c136-4782-be48-6804acaa4413" />
-<img width="1223" height="336" alt="Cash Flow Statement2" src="https://github.com/user-attachments/assets/8063a01f-5220-40bc-933a-c178b9400063" />
+
 
 
 ### Financial Ratios
