@@ -61,7 +61,8 @@ The data for the Britannia Juice Limited financial project was sourced from a co
 
 
 ### Income Statement
-![Income Statement](screenshots/income_statement.png)
+<img width="1096" height="622" alt="Income Statement" src="https://github.com/user-attachments/assets/e51309e8-ba86-42c5-a4bb-96f8181f4af9" />
+
 
 ### Assumptions Tab
 ![Assumptions](screenshots/assumptions.png)
